@@ -1,0 +1,10 @@
+<script>
+async function fetchEncrypted() {
+  const b64 = "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2ZzZGhmcGQvYmJiL21haW4v6ZW/55S15YWtLmpzb24=";
+  const url = atob(b64); // 内置 Base64 解码
+  const res = await fetch(url);
+  const json = await res.json();
+  console.log(json);
+}
+fetchEncrypted();
+</script>
