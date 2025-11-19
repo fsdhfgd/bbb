@@ -30,24 +30,37 @@
             "name": "本地【宫殿线路】"
         },
  {
-            "url": "http://www.饭太硬.net/tv",
-            "name": "线路8"
+            "url": "https://dafd.wdf25w.netlib.re/%E6%9C%AC%E5%9C%B0%E3%80%90%E5%B0%8F%E7%B1%B3%E7%BA%BF%E8%B7%AF%E3%80%91/api.jsonv",
+            "name": "本地【小米线路】"
         },
 {
-            "url": "http://cdn.qiaoji8.com/tvbox.json",
-            "name": "线路9"
+            "url": "https://dafd.wdf25w.netlib.re/%E6%9C%AC%E5%9C%B0%E3%80%90%E5%B0%8F%E8%99%8E%E6%96%91%E7%BA%BF%E3%80%91/api.json",
+            "name": "本地【小虎斑线】"
         },
         {
-            "url": "http://我不是.摸鱼儿.com",
-            "name": "线路10"
+            "url": "https://dafd.wdf25w.netlib.re/%E6%9C%AC%E5%9C%B0%E3%80%90%E6%8B%BE%E5%85%89%E7%BA%BF%E8%B7%AF%E3%80%91/api.json",
+            "name": 本地【拾光线路】"
         },
         {
-            "url": "https://tv.xn--yhqu5zs87a.top/",
-            "name": "线路11"
+            "url": "https://dafd.wdf25w.netlib.re/%E6%9C%AC%E5%9C%B0%E3%80%90%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF%E3%80%91/api.json",
+            "name": "本地【潇洒线路】"
         },
+ {
+            "url": "https://dafd.wdf25w.netlib.re/%E6%9C%AC%E5%9C%B0%E3%80%90%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF%E3%80%91/api.json",
+            "name": "本地【潇洒线路】"
+        },
+ {
+            "url": "https://dafd.wdf25w.netlib.re/%E6%9C%AC%E5%9C%B0%E3%80%90%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF%E3%80%91/api.json",
+            "name": "本地【潇洒线路】"
+        },
+ {
+            "url": "https://dafd.wdf25w.netlib.re/%E6%9C%AC%E5%9C%B0%E3%80%90%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF%E3%80%91/api.json",
+            "name": "本地【潇洒线路】"
+        },
+        
         {
-            "url": "https://sfsf.jiangqti.dpdns.org/优质.json",
-            "name": "线路12"
+            "url": "https://dafd.wdf25w.netlib.re/%E6%9C%AC%E5%9C%B0%E3%80%90%E9%A5%AD%E5%A4%AA%E7%A1%AC%E7%BA%BF%E3%80%91/api.json",
+            "name": "本地【饭太硬线】"
         },
         {
             "url": "https://gitee.com/iy-cpu/iy/raw/master/%E5%A4%A9%E7%A5%9EIY.json",
@@ -56,6 +69,7 @@
     ]
 
 }
+
 
 
 
